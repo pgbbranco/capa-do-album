@@ -1,18 +1,9 @@
-# Processo de Criação da Capa: SHADOW BUILD
+# Como a capa de SHADOW BUILD mudou
 
-## 1. Identidade e Conceito
-- **Nome Artístico:** PH4NT0M
-- **Título do Álbum:** SHADOW BUILD
-- **Selo:** Patente E-9 (Simboliza a disciplina, a honra e a superação)
+A primeira versão mostrava uma figura de capuz em pé diante de um lago. O céu escuro, as montanhas e a luz da lua davam à cena o clima de um jogo.
 
-## 2. Prompts de IA e Testes de Imagem
-- **Prompt Utilizado:** `Melancholic dark mountains landscape with a calm lake under heavy rain and fog, moody night atmosphere, dark blue, grayish white and black color palette, cinematic lighting, minimalist album cover aesthetic --ar 1:1`
-- **Ajustes:** Teste de contraste da imagem para garantir a visibilidade das montanhas sob a chuva e nevoeiro sem perder o tom escuro da tela.
+Para a versão final, pedi uma gravura sobre papel creme, com tinta escura e detalhes em violeta. Mantive o lago e as montanhas e coloquei a figura sentada junto à árvore. O título ficou no alto e as cinco faixas ganharam espaço em duas colunas.
 
-## 3. Escolha da Paleta de Cores
-1. **Azul Escuro:** Representa a noite, o ambiente chuvoso de imersão e o foco do desenvolvedor.
-2. **Branco-Cinzentado:** Presente nos títulos e texto, simbolizando a luz da tela e o ponto de partida de cada novo código.
-3. **Preto:** Traz a profundidade do terminal de programação e a essência do artista *PH4NT0M* que atua nas sombras.
+Na revisão com IA, a primeira tentativa trocou os nomes das faixas. Pedi que voltassem aos títulos originais e mantivessem os temas da [tracklist](tracklist.md). Em **UNSEEN SCRIPT**, a tracklist registra minha crença de que só eu posso abrir mão dos meus sonhos. A frase impressa na capa final ainda tem uma diferença de sentido nesse trecho.
 
-## 4. Direção de Arte
-A capa traduz a jornada de quem desenvolve os seus próprios jogos na calada da noite. A paisagem chuvosa reflete a calma interior necessária para resolver problemas complexos de lógica e a determinação de concluir os projetos.
+[Ver a capa final](capa-album.jpg)
