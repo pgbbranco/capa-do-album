@@ -6,4 +6,4 @@ A atividade teve como objetivo praticar a criação de repositórios Git e uso d
 
 ![Capa do álbum SHADOW BUILD](capa-do-album/capa-album.jpg)
 
-[Explorar os materiais do projeto](capa-do-album/README.md) · [Voltar ao portfólio](https://pgbbranco.github.io/portfolio/)
+[Explorar os materiais do projeto](capa-do-album/README.md)
